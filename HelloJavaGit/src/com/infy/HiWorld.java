@@ -4,5 +4,6 @@ public class HiWorld {
 	
 	String greeting;
 	String attr1;
+	String attr2;
 
 }
