@@ -6,5 +6,6 @@ public class HiWorld {
 	String attr1;
 	String attr2;
 	String attr3;
+	String attr4;
 
 }
