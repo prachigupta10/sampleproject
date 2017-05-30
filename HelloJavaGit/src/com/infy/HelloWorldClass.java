@@ -9,6 +9,7 @@ public class HelloWorldClass {
 		System.out.println("Add new line a1");
 		System.out.println("Add new line a2");
 		System.out.println("Add new line a3");
+		System.out.println("Add new line a4");
 	}
 
 }
